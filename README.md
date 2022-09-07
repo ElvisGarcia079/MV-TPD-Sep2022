@@ -9,7 +9,7 @@ This project is going to be part of a series of Technical Professional Developme
 ## Project Management
 This tool will contain a reference to the planning of this project. It's going to lay out in detail the step by step approach taken in order to complete this project. 
 
-Here is the [Trello Board](https://trello.com/b/T86ELwMv/tpdmv-september-2022) for this project.
+- Here is the [Trello Board](https://trello.com/b/T86ELwMv/tpdmv-september-2022) for this project.
 ---
 
 
